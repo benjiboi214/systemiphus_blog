@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
-    title: "Systemiphus Blog",
+    title: "Systemiphus",
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",
